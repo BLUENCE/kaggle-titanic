@@ -1,0 +1,2 @@
+# kaggle-titanic
+Struggle titanic
